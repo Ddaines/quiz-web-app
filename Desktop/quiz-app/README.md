@@ -28,3 +28,5 @@
 ## Автор
 
 ## Деплой
+    https://quiz-web-app-sable.vercel.app
+    https://quiz-web-app-daniil-sable.vercel.app
